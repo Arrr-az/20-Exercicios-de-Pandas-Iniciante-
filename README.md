@@ -1,2 +1,2 @@
-# 20-Exercicios-de-Pandas-Iniciante-
-Código em Python (Jupyter Notebook) com minhas respostas pra 20 exercícios da biblioteca Pandas.
+# 20-Pandas-Exercises
+Python (Jupyter Notebook) code with my answers for 20 begginer-level Pandas questions, as a way of exercising and training myself with the library. 
